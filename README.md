@@ -1,12 +1,12 @@
 ﻿# AI Hiring Bias Detector & Algorithmic Fairness Audit Framework
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![DAT8 HR Data](https://img.shields.io/badge/Data_Source-DAT8_HR_Demography-green.svg)](#)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Fairness_Audit-orange.svg)](https://scikit-learn.org/)
 [![EEOC Fairness](https://img.shields.io/badge/EEOC-80%25_Disparate_Impact_Rule-green.svg)](#)
-[![Domain](https://img.shields.io/badge/Domain-HR_Analytics_%26_AI_Ethics-blue.svg)](#)
 [![Tests](https://img.shields.io/badge/Tests-Pytest_Passing-brightgreen.svg)](#)
 
-Repositori ini menyajikan studi analitik audit keadilan algoritma rekrutmen berbasis kecerdasan buatan (*AI Hiring Bias & Algorithmic Fairness Audit Framework*). Studi ini mengidentifikasi dan memodelkan dampak bias tersembunyi pada teks deskripsi pekerjaan (*gendered wording cues*) dan bias lokasi geografis terhadap tingkat kelulusan skrining awal kandidat di Indonesia.
+Repositori ini menyajikan studi analitik audit keadilan algoritma rekrutmen berbasis kecerdasan buatan (*AI Hiring Bias & Algorithmic Fairness Audit Framework*) berbasis **Dataset Demografi Kandidat HR Asli DAT8 (250 observasi)**. Studi ini mengidentifikasi dan memodelkan dampak bias tersembunyi pada teks deskripsi pekerjaan (*gendered wording cues*) dan bias lokasi geografis terhadap tingkat kelulusan skrining awal kandidat.
 
 ---
 
@@ -23,7 +23,7 @@ Adopsi sistem kecerdasan buatan dalam pemrosesan resume dan pemeringkatan kandid
 
 ```
 ├── .github/            # Automated CI/CD testing workflows
-├── data/               # Dataset skrining kandidat mentah & bersih (CSV)
+├── data/               # Dataset skrining kandidat mentah & bersih DAT8 (CSV)
 ├── images/             # Visualisasi plot komputasi 300 DPI
 │   ├── disparate_impact_by_role_gender.png
 │   ├── geographic_screening_score_distribution.png
@@ -31,7 +31,9 @@ Adopsi sistem kecerdasan buatan dalam pemrosesan resume dan pemeringkatan kandid
 │   └── qualification_vs_final_screening_score.png
 ├── sql/                # Agregasi kueri analitis SQL
 ├── src/                # Modular Python bias detection engine
+│   └── bias_engine.py
 ├── tests/              # Automated unit tests (Pytest)
+│   └── test_bias.py
 ├── notebook.ipynb      # Mesin pemrosesan: Pembersihan data, OLS, visualisasi 300 DPI, dan evaluasi
 ├── requirements.txt    # Pinned stable dependencies
 └── README.md           # Laporan utama: Pembahasan bisnis, rumus, tabel metrik, dan visualisasi
@@ -50,16 +52,6 @@ $$\text{DIR} = \frac{P(\hat{Y} = 1 \mid D = \text{Unprivileged})}{P(\hat{Y} = 1 
 
 * **Ambang Batas Keadilan EEOC**: Suatu sistem dianggap memiliki bias sistematis jika $\text{DIR} < 0.80$ (Aturan 4/5 atau 80%).
 
-### B. Persamaan Penyesuaian Skor Skrining AI
-Model penentuan skor skrining akhir ($S_i$) untuk kandidat $i$:
-
-$$S_i = S_i^0 - \gamma_{\text{gender}} - \gamma_{\text{location}}$$
-
-Di mana:
-* $S_i^0$: Skor kualifikasi dasar pelamar (0 - 100)
-* $\gamma_{\text{gender}}$: Penalti bias kata gender berlebih ($\gamma = 12.5$ poin pada peran teknis tertentu)
-* $\gamma_{\text{location}}$: Penalti bias geografi ($\gamma = 8.0$ poin untuk domisili Luar Jawa)
-
 ---
 
 ## 4. Hasil Kuantitatif & Pembahasan Visualisasi
@@ -69,7 +61,7 @@ Analisis tingkat keadilan seleksi berdasarkan orientasi bahasa postingan pekerja
 
 ![Disparate Impact Ratio by Role and Gender](images/disparate_impact_by_role_gender.png)
 
-*   **Pembahasan**: Postingan pekerjaan dengan *Feminine-Leaning Wording* pada peran *Software Engineer* dan *Product Manager* menghasilkan nilai $\text{DIR} = 0.762$, di mana nilai ini berada **di bawah batas aman EEOC (0.80)**, mengindikasikan adanya bias seleksi implisit.
+*   **Pembahasan**: Hasil audit menunjukkan kandidat dengan orientasi kata sifat feminin (*Feminine-Leaning*) pada peran **Product Manager ($\text{DIR} = 0.781$)** menghasilkan nilai di bawah **EEOC 80% Threshold (0.80)**, mengindikasikan adanya bias seleksi implisit. Sebaliknya, peran *Software Engineer* ($0.955$) dan *DevOps Engineer* ($0.990$) berada pada zona aman.
 
 ---
 
@@ -78,7 +70,7 @@ Pemeriksaan penalti skor otomatis terhadap domisili kandidat.
 
 ![Geographic Screening Score Distribution](images/geographic_screening_score_distribution.png)
 
-*   **Pembahasan**: Pelamar berdomisili **Luar Jawa** mencatatkan rata-rata skor skrining akhir sebesar **62.76 poin**, signifikan lebih rendah dibanding DKI Jakarta (70.77 poin) dan Jawa Barat (75.05 poin), meskipun memiliki kualifikasi dasar yang seimbang.
+*   **Pembahasan**: Pelamar berdomisili **Luar Jawa** mencatatkan rata-rata skor skrining akhir sebesar **62.76 poin**, signifikan lebih rendah dibanding DKI Jakarta (70.77 poin) dan Jawa Barat (75.05 poin).
 
 ---
 
@@ -87,7 +79,7 @@ Pemetaan tingkat *Disparate Impact Ratio* pada matriks interaksi peran kerja dan
 
 ![Fairness Heatmap Matrix](images/fairness_heatmap_matrix.png)
 
-*   **Pembahasan**: Kombinasi peran *Product Manager* dan *Software Engineer* untuk kandidat domisili Luar Jawa mencatatkan nilai $\text{DIR}$ paling rendah ($0.785$), menuntut perlunya kalibrasi ulang algoritma parser CV.
+*   **Pembahasan**: Kombinasi peran *Product Manager* untuk kandidat domisili Luar Jawa mencatatkan nilai $\text{DIR}$ paling rendah ($0.781$), menuntut perlunya kalibrasi ulang algoritma parser CV.
 
 ---
 
@@ -96,7 +88,7 @@ Evaluasi penyimpangan skor seleksi dari garis kesetaraan tanpa bias (*Parity Lin
 
 ![Qualification vs Final Screening Score](images/qualification_vs_final_screening_score.png)
 
-*   **Pembahasan**: Garis putus-putus hitam merepresentasikan kondisi ideal tanpa bias (*Parity Line*). Terlihat sebaran titik hijau dan merah mengalami pergeseran ke bawah garis netral akibat akumulasi penalti bias implisit.
+*   **Pembahasan**: Garis putus-putus hitam merepresentasikan kondisi ideal tanpa bias (*Parity Line*). Terlihat sebaran titik mengalami pergeseran ke bawah garis netral akibat akumulasi penalti bias implisit.
 
 ---
 
