@@ -69,7 +69,7 @@ Analisis tingkat keadilan seleksi berdasarkan orientasi bahasa postingan pekerja
 
 ![Disparate Impact Ratio by Role and Gender](images/disparate_impact_by_role_gender.png)
 
-*   **Pembahasan**: Postingan pekerjaan dengan *Feminine-Leaning Wording* pada peran *Software Engineer* dan *Product Manager* menghasilkan nilai $\text{DIR} = 0.762$, di mana nilai ini berada **di bawah batas aman EEOC (0.80)**, mengindikasikan adanya bias seleksi implisist.
+*   **Pembahasan**: Postingan pekerjaan dengan *Feminine-Leaning Wording* pada peran *Software Engineer* dan *Product Manager* menghasilkan nilai $\text{DIR} = 0.762$, di mana nilai ini berada **di bawah batas aman EEOC (0.80)**, mengindikasikan adanya bias seleksi implisit.
 
 ---
 
@@ -100,7 +100,27 @@ Evaluasi penyimpangan skor seleksi dari garis kesetaraan tanpa bias (*Parity Lin
 
 ---
 
-## 5. Rekomendasi Manajerial & Debiasing AI
+## 5. Implementasi Modular & Pengujian Otomatis
+
+Modul deteksi bias rekrutmen tersedia di `src/bias_engine.py`:
+
+```python
+from src.bias_engine import HiringBiasEngine
+
+engine = HiringBiasEngine()
+df = engine.load_and_clean_data("data/hiring_bias_dataset.csv")
+summary_df = engine.calculate_fairness_summary(df)
+print(summary_df)
+```
+
+Jalankan automated test:
+```bash
+python -m pytest tests/
+```
+
+---
+
+## 6. Rekomendasi Manajerial & Debiasing AI
 
 1. **Penggunaan Neutral Gender Parser**: Mewajibkan pembersihan kata sifat berkonotasi gender pada deskripsi pekerjaan sebelum dipublikasikan.
 2. **Blind Resume Screening (Geographic Masking)**: Menyembunyikan alamat domisili kandidat dari algoritma pemeringkat awal untuk menghilangkan penalti lokasi.
@@ -108,7 +128,7 @@ Evaluasi penyimpangan skor seleksi dari garis kesetaraan tanpa bias (*Parity Lin
 
 ---
 
-## 6. Cara Menjalankan
+## 7. Cara Menjalankan
 
 1. **Pasang Dependensi**:
    ```bash
