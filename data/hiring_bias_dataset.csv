@@ -1,251 +1,251 @@
 job_role,gender_text_cue,candidate_location,baseline_qualification_score,gender_bias_penalty,location_bias_penalty,final_screening_score,disparate_impact_ratio,shortlisted
-Software Engineer,Masculine-Leaning,DKI Jakarta,114.38,0.0,0.0,114.38,1.0,1
-Data Analyst,Feminine-Leaning,Jawa Barat,90.44,12.5,0.0,77.94,0.862,1
-Content Specialist,Masculine-Leaning,Luar Jawa,118.29,0.0,8.0,110.29,0.932,1
-Software Engineer,Masculine-Leaning,Luar Jawa,101.39,0.0,8.0,93.39,0.921,1
-Data Analyst,Feminine-Leaning,Luar Jawa,103.36,12.5,8.0,82.86,0.802,1
-Product Manager,Masculine-Leaning,Luar Jawa,100.57,0.0,8.0,92.57,0.92,1
-HR Specialist,Masculine-Leaning,Jawa Timur,99.7,0.0,0.0,99.7,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,97.22,0.0,0.0,97.22,1.0,1
-student,Masculine-Leaning,Jawa Barat,103.08,0.0,0.0,103.08,1.0,1
-lawyer,Masculine-Leaning,DKI Jakarta,86.21,0.0,0.0,86.21,1.0,1
-Data Analyst,Feminine-Leaning,DKI Jakarta,92.5,12.5,0.0,80.0,0.865,1
-Data Analyst,Feminine-Leaning,Jawa Barat,108.69,12.5,0.0,96.19,0.885,1
-educator,Masculine-Leaning,DKI Jakarta,103.22,0.0,0.0,103.22,1.0,1
-scientist,Masculine-Leaning,Luar Jawa,96.89,0.0,8.0,88.89,0.917,1
-educator,Feminine-Leaning,Jawa Barat,103.59,12.5,0.0,91.09,0.879,1
-entertainment,Masculine-Leaning,Jawa Timur,118.63,0.0,0.0,118.63,1.0,1
-programmer,Masculine-Leaning,Jawa Barat,109.68,0.0,0.0,109.68,1.0,1
-Data Analyst,Feminine-Leaning,DKI Jakarta,103.49,12.5,0.0,90.99,0.879,1
-librarian,Masculine-Leaning,Luar Jawa,93.5,0.0,8.0,85.5,0.914,1
-homemaker,Feminine-Leaning,Jawa Timur,100.95,12.5,0.0,88.45,0.876,1
-Content Specialist,Masculine-Leaning,Luar Jawa,107.45,0.0,8.0,99.45,0.926,1
-Content Specialist,Masculine-Leaning,Luar Jawa,102.41,0.0,8.0,94.41,0.922,1
-artist,Feminine-Leaning,Jawa Timur,95.09,12.5,0.0,82.59,0.869,1
-artist,Feminine-Leaning,Jawa Barat,115.19,12.5,0.0,102.69,0.891,1
-engineer,Masculine-Leaning,Luar Jawa,107.6,0.0,8.0,99.6,0.926,1
-engineer,Masculine-Leaning,DKI Jakarta,98.39,0.0,0.0,98.39,1.0,1
-librarian,Feminine-Leaning,Jawa Timur,90.88,12.5,0.0,78.38,0.862,1
-Content Specialist,Masculine-Leaning,Jawa Timur,101.13,0.0,0.0,101.13,1.0,1
-programmer,Masculine-Leaning,Jawa Timur,105.71,0.0,0.0,105.71,1.0,1
-student,Masculine-Leaning,Jawa Barat,116.83,0.0,0.0,116.83,1.0,1
-artist,Masculine-Leaning,Luar Jawa,112.68,0.0,8.0,104.68,0.929,1
-student,Feminine-Leaning,DKI Jakarta,115.78,12.5,0.0,103.28,0.892,1
-student,Masculine-Leaning,Luar Jawa,115.81,0.0,8.0,107.81,0.931,1
-HR Specialist,Feminine-Leaning,Luar Jawa,97.04,12.5,8.0,76.54,0.789,1
-homemaker,Feminine-Leaning,Jawa Barat,119.57,12.5,0.0,107.07,0.895,1
-student,Feminine-Leaning,Luar Jawa,102.74,12.5,8.0,82.24,0.8,1
-student,Masculine-Leaning,Jawa Timur,99.86,0.0,0.0,99.86,1.0,1
-Data Analyst,Feminine-Leaning,DKI Jakarta,99.31,12.5,0.0,86.81,0.874,1
-entertainment,Masculine-Leaning,Jawa Barat,99.66,0.0,0.0,99.66,1.0,1
-scientist,Masculine-Leaning,DKI Jakarta,110.68,0.0,0.0,110.68,1.0,1
-engineer,Masculine-Leaning,Jawa Barat,94.2,0.0,0.0,94.2,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Barat,112.65,0.0,0.0,112.65,1.0,1
-librarian,Feminine-Leaning,Jawa Timur,97.11,12.5,0.0,84.61,0.871,1
-Software Engineer,Masculine-Leaning,DKI Jakarta,100.44,0.0,0.0,100.44,1.0,1
-programmer,Masculine-Leaning,Jawa Barat,96.29,0.0,0.0,96.29,1.0,1
-marketing,Feminine-Leaning,Luar Jawa,101.05,12.5,8.0,80.55,0.797,1
-marketing,Masculine-Leaning,Luar Jawa,90.49,0.0,8.0,82.49,0.912,1
-HR Specialist,Masculine-Leaning,Luar Jawa,88.32,0.0,8.0,80.32,0.909,1
-student,Feminine-Leaning,Jawa Barat,107.59,12.5,0.0,95.09,0.884,1
-Content Specialist,Masculine-Leaning,Luar Jawa,100.12,0.0,8.0,92.12,0.92,1
-educator,Masculine-Leaning,Jawa Timur,108.61,0.0,0.0,108.61,1.0,1
-student,Feminine-Leaning,Jawa Barat,120.52,12.5,0.0,108.02,0.896,1
-programmer,Masculine-Leaning,Jawa Timur,109.65,0.0,0.0,109.65,1.0,1
-Product Manager,Masculine-Leaning,DKI Jakarta,103.71,0.0,0.0,103.71,1.0,1
-programmer,Masculine-Leaning,Jawa Timur,103.83,0.0,0.0,103.83,1.0,1
-librarian,Masculine-Leaning,DKI Jakarta,117.37,0.0,0.0,117.37,1.0,1
-none,Masculine-Leaning,DKI Jakarta,120.98,0.0,0.0,120.98,1.0,1
-programmer,Masculine-Leaning,Luar Jawa,115.56,0.0,8.0,107.56,0.931,1
-educator,Masculine-Leaning,Jawa Barat,93.04,0.0,0.0,93.04,1.0,1
-healthcare,Masculine-Leaning,Luar Jawa,104.82,0.0,8.0,96.82,0.924,1
-engineer,Masculine-Leaning,Jawa Timur,111.48,0.0,0.0,111.48,1.0,1
-HR Specialist,Feminine-Leaning,Jawa Timur,113.97,12.5,0.0,101.47,0.89,1
-marketing,Masculine-Leaning,DKI Jakarta,112.23,0.0,0.0,112.23,1.0,1
-educator,Masculine-Leaning,Jawa Timur,108.96,0.0,0.0,108.96,1.0,1
-educator,Feminine-Leaning,DKI Jakarta,99.91,12.5,0.0,87.41,0.875,1
-student,Masculine-Leaning,Jawa Timur,98.69,0.0,0.0,98.69,1.0,1
-student,Masculine-Leaning,Jawa Barat,110.98,0.0,0.0,110.98,1.0,1
-student,Masculine-Leaning,Jawa Barat,112.69,0.0,0.0,112.69,1.0,1
-engineer,Masculine-Leaning,DKI Jakarta,99.38,0.0,0.0,99.38,1.0,1
-engineer,Masculine-Leaning,Jawa Barat,113.96,0.0,0.0,113.96,1.0,1
-scientist,Masculine-Leaning,Jawa Timur,109.72,0.0,0.0,109.72,1.0,1
-HR Specialist,Feminine-Leaning,Jawa Barat,95.75,12.5,0.0,83.25,0.869,1
-student,Masculine-Leaning,DKI Jakarta,117.31,0.0,0.0,117.31,1.0,1
-scientist,Masculine-Leaning,DKI Jakarta,110.44,0.0,0.0,110.44,1.0,1
-entertainment,Masculine-Leaning,Jawa Timur,106.81,0.0,0.0,106.81,1.0,1
-student,Masculine-Leaning,Jawa Timur,111.74,0.0,0.0,111.74,1.0,1
-Software Engineer,Masculine-Leaning,Jawa Timur,103.8,0.0,0.0,103.8,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,99.44,0.0,0.0,99.44,1.0,1
-HR Specialist,Feminine-Leaning,Luar Jawa,97.34,12.5,8.0,76.84,0.789,1
-HR Specialist,Feminine-Leaning,DKI Jakarta,99.05,12.5,0.0,86.55,0.874,1
-student,Masculine-Leaning,Luar Jawa,106.63,0.0,8.0,98.63,0.925,1
-programmer,Masculine-Leaning,DKI Jakarta,102.39,0.0,0.0,102.39,1.0,1
-Data Analyst,Masculine-Leaning,Jawa Barat,94.48,0.0,0.0,94.48,1.0,1
-Product Manager,Masculine-Leaning,Jawa Timur,103.18,0.0,0.0,103.18,1.0,1
-educator,Masculine-Leaning,Jawa Barat,104.24,0.0,0.0,104.24,1.0,1
-HR Specialist,Masculine-Leaning,DKI Jakarta,105.28,0.0,0.0,105.28,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,90.45,0.0,0.0,90.45,1.0,1
-librarian,Feminine-Leaning,DKI Jakarta,101.28,12.5,0.0,88.78,0.877,1
-HR Specialist,Feminine-Leaning,Luar Jawa,99.45,12.5,8.0,78.95,0.794,1
-educator,Masculine-Leaning,DKI Jakarta,83.53,0.0,0.0,83.53,1.0,1
-marketing,Masculine-Leaning,Jawa Barat,86.12,0.0,0.0,86.12,1.0,1
-entertainment,Masculine-Leaning,Jawa Barat,113.72,0.0,0.0,113.72,1.0,1
-Product Manager,Masculine-Leaning,Luar Jawa,89.32,0.0,8.0,81.32,0.91,1
-student,Masculine-Leaning,Jawa Timur,105.62,0.0,0.0,105.62,1.0,1
-HR Specialist,Masculine-Leaning,Luar Jawa,107.33,0.0,8.0,99.33,0.925,1
-artist,Feminine-Leaning,Luar Jawa,109.42,12.5,8.0,88.92,0.813,1
-artist,Masculine-Leaning,DKI Jakarta,105.14,0.0,0.0,105.14,1.0,1
-Product Manager,Feminine-Leaning,Jawa Timur,96.02,12.5,0.0,83.52,0.87,1
-student,Masculine-Leaning,Jawa Timur,117.63,0.0,0.0,117.63,1.0,1
-Product Manager,Masculine-Leaning,Jawa Timur,98.83,0.0,0.0,98.83,1.0,1
-student,Masculine-Leaning,Luar Jawa,116.0,0.0,8.0,108.0,0.931,1
-programmer,Masculine-Leaning,DKI Jakarta,96.44,0.0,0.0,96.44,1.0,1
-student,Masculine-Leaning,Jawa Timur,108.29,0.0,0.0,108.29,1.0,1
-student,Masculine-Leaning,DKI Jakarta,100.27,0.0,0.0,100.27,1.0,1
-engineer,Masculine-Leaning,Jawa Timur,107.97,0.0,0.0,107.97,1.0,1
-retired,Masculine-Leaning,Jawa Timur,89.05,0.0,0.0,89.05,1.0,1
-scientist,Masculine-Leaning,Jawa Barat,96.95,0.0,0.0,96.95,1.0,1
-educator,Masculine-Leaning,Luar Jawa,106.13,0.0,8.0,98.13,0.925,1
-Data Analyst,Masculine-Leaning,Jawa Timur,109.55,0.0,0.0,109.55,1.0,1
-student,Masculine-Leaning,Jawa Barat,118.39,0.0,0.0,118.39,1.0,1
-engineer,Masculine-Leaning,Luar Jawa,83.13,0.0,8.0,75.13,0.904,1
-salesman,Masculine-Leaning,Luar Jawa,99.83,0.0,8.0,91.83,0.92,1
-Product Manager,Masculine-Leaning,Luar Jawa,102.56,0.0,8.0,94.56,0.922,1
-programmer,Masculine-Leaning,Jawa Timur,111.52,0.0,0.0,111.52,1.0,1
-engineer,Masculine-Leaning,DKI Jakarta,112.75,0.0,0.0,112.75,1.0,1
-healthcare,Masculine-Leaning,Jawa Timur,96.61,0.0,0.0,96.61,1.0,1
-student,Masculine-Leaning,Luar Jawa,109.64,0.0,8.0,101.64,0.927,1
-HR Specialist,Masculine-Leaning,Jawa Timur,110.92,0.0,0.0,110.92,1.0,1
-programmer,Masculine-Leaning,Luar Jawa,103.82,0.0,8.0,95.82,0.923,1
-Data Analyst,Feminine-Leaning,Luar Jawa,91.25,12.5,8.0,70.75,0.775,1
-librarian,Masculine-Leaning,Luar Jawa,84.36,0.0,8.0,76.36,0.905,1
-Content Specialist,Feminine-Leaning,Jawa Timur,112.51,12.5,0.0,100.01,0.889,1
-artist,Feminine-Leaning,Jawa Timur,104.79,12.5,0.0,92.29,0.881,1
-student,Masculine-Leaning,Jawa Timur,101.56,0.0,0.0,101.56,1.0,1
-lawyer,Masculine-Leaning,Luar Jawa,105.18,0.0,8.0,97.18,0.924,1
-lawyer,Feminine-Leaning,Jawa Timur,99.75,12.5,0.0,87.25,0.875,1
-none,Masculine-Leaning,Jawa Barat,97.21,0.0,0.0,97.21,1.0,1
-marketing,Feminine-Leaning,Jawa Barat,113.11,12.5,0.0,100.61,0.889,1
-marketing,Feminine-Leaning,Jawa Barat,109.43,12.5,0.0,96.93,0.886,1
-none,Masculine-Leaning,Jawa Timur,115.31,0.0,0.0,115.31,1.0,1
-HR Specialist,Feminine-Leaning,Jawa Barat,98.5,12.5,0.0,86.0,0.873,1
-Data Analyst,Masculine-Leaning,DKI Jakarta,116.47,0.0,0.0,116.47,1.0,1
-engineer,Masculine-Leaning,Jawa Timur,86.26,0.0,0.0,86.26,1.0,1
-programmer,Masculine-Leaning,DKI Jakarta,99.89,0.0,0.0,99.89,1.0,1
-student,Masculine-Leaning,DKI Jakarta,109.72,0.0,0.0,109.72,1.0,1
-Data Analyst,Masculine-Leaning,Jawa Barat,87.37,0.0,0.0,87.37,1.0,1
-educator,Masculine-Leaning,Jawa Timur,91.62,0.0,0.0,91.62,1.0,1
-doctor,Masculine-Leaning,Luar Jawa,101.67,0.0,8.0,93.67,0.921,1
-student,Masculine-Leaning,Jawa Barat,111.73,0.0,0.0,111.73,1.0,1
-student,Feminine-Leaning,Luar Jawa,99.59,12.5,8.0,79.09,0.794,1
-programmer,Masculine-Leaning,DKI Jakarta,87.57,0.0,0.0,87.57,1.0,1
-Data Analyst,Masculine-Leaning,Jawa Timur,118.55,0.0,0.0,118.55,1.0,1
-Software Engineer,Masculine-Leaning,DKI Jakarta,105.87,0.0,0.0,105.87,1.0,1
-programmer,Masculine-Leaning,Jawa Timur,90.29,0.0,0.0,90.29,1.0,1
-entertainment,Masculine-Leaning,Luar Jawa,114.34,0.0,8.0,106.34,0.93,1
-artist,Masculine-Leaning,Jawa Timur,96.71,0.0,0.0,96.71,1.0,1
-librarian,Feminine-Leaning,Jawa Timur,96.8,12.5,0.0,84.3,0.871,1
-engineer,Masculine-Leaning,Jawa Barat,107.46,0.0,0.0,107.46,1.0,1
-marketing,Feminine-Leaning,DKI Jakarta,111.12,12.5,0.0,98.62,0.888,1
-artist,Feminine-Leaning,Jawa Barat,100.37,12.5,0.0,87.87,0.875,1
-HR Specialist,Feminine-Leaning,Jawa Timur,105.64,12.5,0.0,93.14,0.882,1
-educator,Feminine-Leaning,Jawa Timur,97.41,12.5,0.0,84.91,0.872,1
-student,Masculine-Leaning,Jawa Timur,113.86,0.0,0.0,113.86,1.0,1
-student,Masculine-Leaning,Luar Jawa,111.59,0.0,8.0,103.59,0.928,1
-Data Analyst,Feminine-Leaning,Luar Jawa,98.7,12.5,8.0,78.2,0.792,1
-educator,Masculine-Leaning,Jawa Timur,105.94,0.0,0.0,105.94,1.0,1
-engineer,Masculine-Leaning,Jawa Barat,95.64,0.0,0.0,95.64,1.0,1
-educator,Masculine-Leaning,DKI Jakarta,101.79,0.0,0.0,101.79,1.0,1
-student,Feminine-Leaning,Jawa Timur,116.25,12.5,0.0,103.75,0.892,1
-programmer,Masculine-Leaning,Jawa Timur,109.65,0.0,0.0,109.65,1.0,1
-lawyer,Masculine-Leaning,Jawa Timur,104.52,0.0,0.0,104.52,1.0,1
-artist,Masculine-Leaning,Jawa Barat,116.99,0.0,0.0,116.99,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,85.99,0.0,0.0,85.99,1.0,1
-healthcare,Masculine-Leaning,DKI Jakarta,103.54,0.0,0.0,103.54,1.0,1
-Data Analyst,Feminine-Leaning,Jawa Timur,109.85,12.5,0.0,97.35,0.886,1
-educator,Masculine-Leaning,Jawa Timur,92.35,0.0,0.0,92.35,1.0,1
-Data Analyst,Masculine-Leaning,Jawa Barat,109.86,0.0,0.0,109.86,1.0,1
-Data Analyst,Masculine-Leaning,DKI Jakarta,86.62,0.0,0.0,86.62,1.0,1
-Data Analyst,Feminine-Leaning,Luar Jawa,101.35,12.5,8.0,80.85,0.798,1
-healthcare,Feminine-Leaning,Jawa Barat,102.32,12.5,0.0,89.82,0.878,1
-educator,Feminine-Leaning,DKI Jakarta,94.5,12.5,0.0,82.0,0.868,1
-marketing,Masculine-Leaning,Luar Jawa,85.72,0.0,8.0,77.72,0.907,1
-Data Analyst,Masculine-Leaning,Luar Jawa,97.96,0.0,8.0,89.96,0.918,1
-HR Specialist,Feminine-Leaning,DKI Jakarta,106.38,12.5,0.0,93.88,0.882,1
-scientist,Feminine-Leaning,DKI Jakarta,115.76,12.5,0.0,103.26,0.892,1
-scientist,Masculine-Leaning,DKI Jakarta,104.38,0.0,0.0,104.38,1.0,1
-programmer,Masculine-Leaning,Jawa Timur,119.68,0.0,0.0,119.68,1.0,1
-Data Analyst,Masculine-Leaning,Luar Jawa,102.0,0.0,8.0,94.0,0.922,1
-entertainment,Masculine-Leaning,DKI Jakarta,105.57,0.0,0.0,105.57,1.0,1
-HR Specialist,Feminine-Leaning,Luar Jawa,109.82,12.5,8.0,89.32,0.813,1
-Product Manager,Masculine-Leaning,Jawa Barat,110.78,0.0,0.0,110.78,1.0,1
-programmer,Masculine-Leaning,DKI Jakarta,102.82,0.0,0.0,102.82,1.0,1
-scientist,Masculine-Leaning,Jawa Timur,105.53,0.0,0.0,105.53,1.0,1
-librarian,Masculine-Leaning,DKI Jakarta,92.77,0.0,0.0,92.77,1.0,1
-librarian,Feminine-Leaning,DKI Jakarta,90.7,12.5,0.0,78.2,0.862,1
-Product Manager,Feminine-Leaning,Jawa Timur,103.18,12.5,0.0,90.68,0.879,1
-educator,Masculine-Leaning,Jawa Barat,106.96,0.0,0.0,106.96,1.0,1
-student,Masculine-Leaning,Jawa Barat,106.39,0.0,0.0,106.39,1.0,1
-artist,Masculine-Leaning,Jawa Timur,107.19,0.0,0.0,107.19,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,110.37,0.0,0.0,110.37,1.0,1
-HR Specialist,Masculine-Leaning,Jawa Timur,93.75,0.0,0.0,93.75,1.0,1
-educator,Masculine-Leaning,DKI Jakarta,106.76,0.0,0.0,106.76,1.0,1
-student,Masculine-Leaning,DKI Jakarta,99.5,0.0,0.0,99.5,1.0,1
-HR Specialist,Masculine-Leaning,DKI Jakarta,103.94,0.0,0.0,103.94,1.0,1
-scientist,Masculine-Leaning,Jawa Timur,100.16,0.0,0.0,100.16,1.0,1
-Content Specialist,Masculine-Leaning,Jawa Timur,99.95,0.0,0.0,99.95,1.0,1
-Software Engineer,Masculine-Leaning,Jawa Barat,100.56,0.0,0.0,100.56,1.0,1
-student,Feminine-Leaning,Jawa Barat,114.0,12.5,0.0,101.5,0.89,1
-Content Specialist,Masculine-Leaning,Luar Jawa,96.51,0.0,8.0,88.51,0.917,1
-programmer,Masculine-Leaning,Luar Jawa,106.51,0.0,8.0,98.51,0.925,1
-Content Specialist,Masculine-Leaning,Jawa Timur,112.57,0.0,0.0,112.57,1.0,1
-educator,Feminine-Leaning,DKI Jakarta,97.78,12.5,0.0,85.28,0.872,1
-student,Feminine-Leaning,Luar Jawa,112.61,12.5,8.0,92.11,0.818,1
-librarian,Feminine-Leaning,Jawa Timur,102.36,12.5,0.0,89.86,0.878,1
-lawyer,Masculine-Leaning,Jawa Barat,104.19,0.0,0.0,104.19,1.0,1
-student,Feminine-Leaning,Jawa Timur,105.57,12.5,0.0,93.07,0.882,1
-marketing,Masculine-Leaning,Luar Jawa,97.26,0.0,8.0,89.26,0.918,1
-engineer,Masculine-Leaning,Jawa Timur,104.9,0.0,0.0,104.9,1.0,1
-educator,Feminine-Leaning,Jawa Barat,99.6,12.5,0.0,87.1,0.874,1
-engineer,Masculine-Leaning,DKI Jakarta,94.55,0.0,0.0,94.55,1.0,1
-salesman,Masculine-Leaning,Luar Jawa,81.99,0.0,8.0,73.99,0.902,1
-educator,Feminine-Leaning,Jawa Timur,95.27,12.5,0.0,82.77,0.869,1
-Product Manager,Masculine-Leaning,Jawa Barat,103.7,0.0,0.0,103.7,1.0,1
-librarian,Feminine-Leaning,Jawa Barat,115.0,12.5,0.0,102.5,0.891,1
-programmer,Masculine-Leaning,Luar Jawa,97.81,0.0,8.0,89.81,0.918,1
-engineer,Masculine-Leaning,DKI Jakarta,109.8,0.0,0.0,109.8,1.0,1
-Data Analyst,Masculine-Leaning,Jawa Timur,99.2,0.0,0.0,99.2,1.0,1
-HR Specialist,Masculine-Leaning,Luar Jawa,107.26,0.0,8.0,99.26,0.925,1
-programmer,Masculine-Leaning,Jawa Timur,113.94,0.0,0.0,113.94,1.0,1
-librarian,Masculine-Leaning,DKI Jakarta,105.33,0.0,0.0,105.33,1.0,1
-student,Masculine-Leaning,DKI Jakarta,106.22,0.0,0.0,106.22,1.0,1
-programmer,Masculine-Leaning,Luar Jawa,95.56,0.0,8.0,87.56,0.916,1
-student,Feminine-Leaning,Jawa Barat,108.46,12.5,0.0,95.96,0.885,1
-educator,Feminine-Leaning,DKI Jakarta,113.89,12.5,0.0,101.39,0.89,1
-HR Specialist,Feminine-Leaning,DKI Jakarta,99.79,12.5,0.0,87.29,0.875,1
-student,Masculine-Leaning,DKI Jakarta,113.18,0.0,0.0,113.18,1.0,1
-Product Manager,Masculine-Leaning,DKI Jakarta,101.07,0.0,0.0,101.07,1.0,1
-student,Feminine-Leaning,Luar Jawa,112.0,12.5,8.0,91.5,0.817,1
-librarian,Feminine-Leaning,Jawa Timur,100.52,12.5,0.0,88.02,0.876,1
-student,Feminine-Leaning,DKI Jakarta,110.37,12.5,0.0,97.87,0.887,1
-librarian,Masculine-Leaning,DKI Jakarta,87.16,0.0,0.0,87.16,1.0,1
-scientist,Masculine-Leaning,Jawa Timur,101.53,0.0,0.0,101.53,1.0,1
-engineer,Masculine-Leaning,DKI Jakarta,95.11,0.0,0.0,95.11,1.0,1
-retired,Masculine-Leaning,Jawa Barat,89.37,0.0,0.0,89.37,1.0,1
-educator,Masculine-Leaning,Jawa Timur,93.65,0.0,0.0,93.65,1.0,1
-Content Specialist,Feminine-Leaning,Jawa Timur,105.76,12.5,0.0,93.26,0.882,1
-HR Specialist,Masculine-Leaning,Luar Jawa,100.02,0.0,8.0,92.02,0.92,1
-HR Specialist,Feminine-Leaning,Jawa Barat,97.61,12.5,0.0,85.11,0.872,1
-artist,Masculine-Leaning,Jawa Timur,96.48,0.0,0.0,96.48,1.0,1
-educator,Feminine-Leaning,Luar Jawa,105.24,12.5,8.0,84.74,0.805,1
-student,Feminine-Leaning,Luar Jawa,98.32,12.5,8.0,77.82,0.791,1
-educator,Masculine-Leaning,Jawa Barat,104.6,0.0,0.0,104.6,1.0,1
-educator,Masculine-Leaning,Jawa Timur,97.54,0.0,0.0,97.54,1.0,1
-Software Engineer,Masculine-Leaning,DKI Jakarta,103.82,0.0,0.0,103.82,1.0,1
-student,Masculine-Leaning,Jawa Timur,108.75,0.0,0.0,108.75,1.0,1
-student,Masculine-Leaning,DKI Jakarta,115.34,0.0,0.0,115.34,1.0,1
-engineer,Masculine-Leaning,Luar Jawa,111.48,0.0,8.0,103.48,0.928,1
-student,Masculine-Leaning,Jawa Timur,99.51,0.0,0.0,99.51,1.0,1
-student,Masculine-Leaning,Jawa Timur,98.45,0.0,0.0,98.45,1.0,1
-Product Manager,Masculine-Leaning,Luar Jawa,112.57,0.0,8.0,104.57,0.929,1
+Software Engineer,Masculine-Leaning,DKI Jakarta,110.96,0.0,0.0,110.96,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Barat,98.36,12.5,0.0,85.86,0.873,1
+Content Specialist,Masculine-Leaning,Jawa Timur,114.19,0.0,0.0,114.19,1.0,1
+Software Engineer,Masculine-Leaning,DKI Jakarta,109.38,0.0,0.0,109.38,1.0,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,102.39,12.5,0.0,89.89,0.878,1
+Product Manager,Masculine-Leaning,Jawa Barat,95.63,0.0,0.0,95.63,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Timur,97.06,0.0,0.0,97.06,1.0,1
+HR Specialist,Masculine-Leaning,Luar Jawa,97.21,0.0,8.0,89.21,0.918,1
+Junior Developer,Masculine-Leaning,Jawa Timur,105.62,0.0,0.0,105.62,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,97.99,0.0,8.0,89.99,0.918,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,103.66,12.5,0.0,91.16,0.879,1
+Data Analyst,Feminine-Leaning,Jawa Timur,105.54,12.5,0.0,93.04,0.882,1
+Training Manager,Masculine-Leaning,DKI Jakarta,106.1,0.0,0.0,106.1,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,102.53,0.0,0.0,102.53,1.0,1
+Training Manager,Feminine-Leaning,Luar Jawa,103.53,12.5,8.0,83.03,0.802,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,110.95,0.0,0.0,110.95,1.0,1
+Backend Developer,Masculine-Leaning,Luar Jawa,108.51,0.0,8.0,100.51,0.926,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,99.14,12.5,0.0,86.64,0.874,1
+Data Analyst,Masculine-Leaning,Jawa Barat,101.92,0.0,0.0,101.92,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Barat,93.37,12.5,0.0,80.87,0.866,1
+Content Specialist,Masculine-Leaning,Jawa Barat,105.82,0.0,0.0,105.82,1.0,1
+Content Specialist,Masculine-Leaning,Jawa Timur,104.37,0.0,0.0,104.37,1.0,1
+UI/UX Designer,Feminine-Leaning,Jawa Timur,109.9,12.5,0.0,97.4,0.886,1
+UI/UX Designer,Feminine-Leaning,Jawa Timur,103.45,12.5,0.0,90.95,0.879,1
+DevOps Engineer,Masculine-Leaning,Luar Jawa,99.38,0.0,8.0,91.38,0.92,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,95.13,0.0,0.0,95.13,1.0,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,94.64,12.5,0.0,82.14,0.868,1
+Content Specialist,Masculine-Leaning,DKI Jakarta,107.71,0.0,0.0,107.71,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,97.56,0.0,0.0,97.56,1.0,1
+Junior Developer,Masculine-Leaning,Jawa Barat,112.08,0.0,0.0,112.08,1.0,1
+UI/UX Designer,Masculine-Leaning,Jawa Barat,101.86,0.0,0.0,101.86,1.0,1
+Junior Developer,Feminine-Leaning,Luar Jawa,113.55,12.5,8.0,93.05,0.819,1
+Junior Developer,Masculine-Leaning,Jawa Timur,111.18,0.0,0.0,111.18,1.0,1
+HR Specialist,Feminine-Leaning,DKI Jakarta,109.43,12.5,0.0,96.93,0.886,1
+Data Analyst,Feminine-Leaning,Jawa Timur,111.02,12.5,0.0,98.52,0.887,1
+Junior Developer,Feminine-Leaning,Jawa Barat,113.25,12.5,0.0,100.75,0.89,1
+Junior Developer,Masculine-Leaning,Jawa Timur,102.79,0.0,0.0,102.79,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,112.65,12.5,0.0,100.15,0.889,1
+Data Analyst,Masculine-Leaning,Luar Jawa,100.15,0.0,8.0,92.15,0.92,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,106.26,0.0,0.0,106.26,1.0,1
+DevOps Engineer,Masculine-Leaning,DKI Jakarta,106.22,0.0,0.0,106.22,1.0,1
+HR Specialist,Masculine-Leaning,DKI Jakarta,99.87,0.0,0.0,99.87,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,112.83,12.5,0.0,100.33,0.889,1
+Software Engineer,Masculine-Leaning,Luar Jawa,104.38,0.0,8.0,96.38,0.923,1
+Backend Developer,Masculine-Leaning,Luar Jawa,109.55,0.0,8.0,101.55,0.927,1
+Data Analyst,Feminine-Leaning,Jawa Barat,114.14,12.5,0.0,101.64,0.89,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,101.22,0.0,0.0,101.22,1.0,1
+HR Specialist,Masculine-Leaning,Luar Jawa,95.0,0.0,8.0,87.0,0.916,1
+Junior Developer,Feminine-Leaning,Luar Jawa,104.09,12.5,8.0,83.59,0.803,1
+Content Specialist,Masculine-Leaning,Luar Jawa,113.88,0.0,8.0,105.88,0.93,1
+Training Manager,Masculine-Leaning,DKI Jakarta,106.23,0.0,0.0,106.23,1.0,1
+Junior Developer,Feminine-Leaning,Jawa Barat,111.66,12.5,0.0,99.16,0.888,1
+Backend Developer,Masculine-Leaning,Luar Jawa,110.09,0.0,8.0,102.09,0.927,1
+Product Manager,Masculine-Leaning,DKI Jakarta,108.82,0.0,0.0,108.82,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,103.92,0.0,0.0,103.92,1.0,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,112.47,0.0,0.0,112.47,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,116.19,0.0,0.0,116.19,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,99.26,0.0,0.0,99.26,1.0,1
+Training Manager,Masculine-Leaning,Jawa Timur,96.85,0.0,0.0,96.85,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,95.5,0.0,0.0,95.5,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Timur,99.4,0.0,0.0,99.4,1.0,1
+HR Specialist,Feminine-Leaning,Jawa Barat,110.33,12.5,0.0,97.83,0.887,1
+Data Analyst,Masculine-Leaning,Jawa Timur,109.84,0.0,0.0,109.84,1.0,1
+Training Manager,Masculine-Leaning,Luar Jawa,103.98,0.0,8.0,95.98,0.923,1
+Training Manager,Feminine-Leaning,Luar Jawa,97.08,12.5,8.0,76.58,0.789,1
+Junior Developer,Masculine-Leaning,Jawa Barat,104.54,0.0,0.0,104.54,1.0,1
+Junior Developer,Masculine-Leaning,Luar Jawa,113.73,0.0,8.0,105.73,0.93,1
+Junior Developer,Masculine-Leaning,Luar Jawa,107.81,0.0,8.0,99.81,0.926,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,113.92,0.0,0.0,113.92,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,110.28,0.0,0.0,110.28,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,96.43,0.0,0.0,96.43,1.0,1
+HR Specialist,Feminine-Leaning,Jawa Barat,99.98,12.5,0.0,87.48,0.875,1
+Junior Developer,Masculine-Leaning,Luar Jawa,102.05,0.0,8.0,94.05,0.922,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,102.4,0.0,0.0,102.4,1.0,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,111.08,0.0,0.0,111.08,1.0,1
+Junior Developer,Masculine-Leaning,DKI Jakarta,103.61,0.0,0.0,103.61,1.0,1
+Software Engineer,Masculine-Leaning,Jawa Barat,105.2,0.0,0.0,105.2,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Timur,114.45,0.0,0.0,114.45,1.0,1
+HR Specialist,Feminine-Leaning,Luar Jawa,104.41,12.5,8.0,83.91,0.804,1
+HR Specialist,Feminine-Leaning,Luar Jawa,106.05,12.5,8.0,85.55,0.807,1
+Junior Developer,Masculine-Leaning,Jawa Timur,108.85,0.0,0.0,108.85,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,95.44,0.0,0.0,95.44,1.0,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,97.68,0.0,0.0,97.68,1.0,1
+Product Manager,Masculine-Leaning,Jawa Barat,99.04,0.0,0.0,99.04,1.0,1
+Training Manager,Masculine-Leaning,Jawa Timur,90.41,0.0,0.0,90.41,1.0,1
+HR Specialist,Masculine-Leaning,DKI Jakarta,104.31,0.0,0.0,104.31,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Timur,92.77,0.0,0.0,92.77,1.0,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,98.96,12.5,0.0,86.46,0.874,1
+HR Specialist,Feminine-Leaning,Jawa Barat,93.08,12.5,0.0,80.58,0.866,1
+Training Manager,Masculine-Leaning,Jawa Barat,90.72,0.0,0.0,90.72,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,102.92,0.0,0.0,102.92,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,98.51,0.0,0.0,98.51,1.0,1
+Product Manager,Masculine-Leaning,Luar Jawa,100.19,0.0,8.0,92.19,0.92,1
+Junior Developer,Masculine-Leaning,Jawa Barat,99.65,0.0,0.0,99.65,1.0,1
+HR Specialist,Masculine-Leaning,DKI Jakarta,102.98,0.0,0.0,102.98,1.0,1
+UI/UX Designer,Feminine-Leaning,Jawa Barat,113.55,12.5,0.0,101.05,0.89,1
+UI/UX Designer,Masculine-Leaning,Jawa Barat,101.36,0.0,0.0,101.36,1.0,1
+Product Manager,Feminine-Leaning,Luar Jawa,90.84,12.5,8.0,70.34,0.774,1
+Junior Developer,Masculine-Leaning,Jawa Timur,114.39,0.0,0.0,114.39,1.0,1
+Product Manager,Masculine-Leaning,Jawa Barat,104.74,0.0,0.0,104.74,1.0,1
+Junior Developer,Masculine-Leaning,Luar Jawa,105.37,0.0,8.0,97.37,0.924,1
+Backend Developer,Masculine-Leaning,Jawa Barat,109.24,0.0,0.0,109.24,1.0,1
+Junior Developer,Masculine-Leaning,Jawa Barat,111.98,0.0,0.0,111.98,1.0,1
+Junior Developer,Masculine-Leaning,DKI Jakarta,101.02,0.0,0.0,101.02,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Timur,107.98,0.0,0.0,107.98,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,87.25,0.0,0.0,87.25,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,96.68,0.0,0.0,96.68,1.0,1
+Training Manager,Masculine-Leaning,Jawa Timur,102.78,0.0,0.0,102.78,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,99.41,0.0,8.0,91.41,0.92,1
+Junior Developer,Masculine-Leaning,Luar Jawa,103.06,0.0,8.0,95.06,0.922,1
+DevOps Engineer,Masculine-Leaning,DKI Jakarta,100.27,0.0,0.0,100.27,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,100.15,0.0,0.0,100.15,1.0,1
+Product Manager,Masculine-Leaning,DKI Jakarta,91.25,0.0,0.0,91.25,1.0,1
+Backend Developer,Masculine-Leaning,DKI Jakarta,112.67,0.0,0.0,112.67,1.0,1
+DevOps Engineer,Masculine-Leaning,DKI Jakarta,99.29,0.0,0.0,99.29,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,101.13,0.0,8.0,93.13,0.921,1
+Junior Developer,Masculine-Leaning,DKI Jakarta,116.79,0.0,0.0,116.79,1.0,1
+HR Specialist,Masculine-Leaning,Luar Jawa,107.2,0.0,8.0,99.2,0.925,1
+Backend Developer,Masculine-Leaning,Luar Jawa,108.42,0.0,8.0,100.42,0.926,1
+Data Analyst,Feminine-Leaning,Luar Jawa,94.09,12.5,8.0,73.59,0.782,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,96.84,0.0,0.0,96.84,1.0,1
+Content Specialist,Feminine-Leaning,Jawa Barat,100.75,12.5,0.0,88.25,0.876,1
+UI/UX Designer,Feminine-Leaning,DKI Jakarta,90.91,12.5,0.0,78.41,0.863,1
+Junior Developer,Masculine-Leaning,DKI Jakarta,100.95,0.0,0.0,100.95,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,112.98,0.0,0.0,112.98,1.0,1
+Data Analyst,Feminine-Leaning,DKI Jakarta,102.36,12.5,0.0,89.86,0.878,1
+Data Analyst,Masculine-Leaning,Jawa Barat,102.27,0.0,0.0,102.27,1.0,1
+Data Analyst,Feminine-Leaning,Luar Jawa,103.22,12.5,8.0,82.72,0.801,1
+Data Analyst,Feminine-Leaning,Jawa Barat,103.66,12.5,0.0,91.16,0.879,1
+Data Analyst,Masculine-Leaning,Luar Jawa,110.45,0.0,8.0,102.45,0.928,1
+HR Specialist,Feminine-Leaning,DKI Jakarta,88.96,12.5,0.0,76.46,0.859,1
+Data Analyst,Masculine-Leaning,DKI Jakarta,112.34,0.0,0.0,112.34,1.0,1
+DevOps Engineer,Masculine-Leaning,Luar Jawa,91.84,0.0,8.0,83.84,0.913,1
+Backend Developer,Masculine-Leaning,Luar Jawa,112.39,0.0,8.0,104.39,0.929,1
+Junior Developer,Masculine-Leaning,Luar Jawa,111.99,0.0,8.0,103.99,0.929,1
+Data Analyst,Masculine-Leaning,Jawa Timur,99.57,0.0,0.0,99.57,1.0,1
+Training Manager,Masculine-Leaning,DKI Jakarta,97.31,0.0,0.0,97.31,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,104.28,0.0,8.0,96.28,0.923,1
+Junior Developer,Masculine-Leaning,Jawa Barat,111.64,0.0,0.0,111.64,1.0,1
+Junior Developer,Feminine-Leaning,Jawa Barat,109.55,12.5,0.0,97.05,0.886,1
+Backend Developer,Masculine-Leaning,Luar Jawa,98.64,0.0,8.0,90.64,0.919,1
+Data Analyst,Masculine-Leaning,Jawa Timur,114.15,0.0,0.0,114.15,1.0,1
+Software Engineer,Masculine-Leaning,Luar Jawa,97.62,0.0,8.0,89.62,0.918,1
+Backend Developer,Masculine-Leaning,Jawa Barat,103.01,0.0,0.0,103.01,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,107.48,0.0,8.0,99.48,0.926,1
+UI/UX Designer,Masculine-Leaning,Jawa Timur,99.12,0.0,0.0,99.12,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,96.68,12.5,0.0,84.18,0.871,1
+DevOps Engineer,Masculine-Leaning,Jawa Timur,107.99,0.0,0.0,107.99,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,110.22,12.5,0.0,97.72,0.887,1
+UI/UX Designer,Feminine-Leaning,DKI Jakarta,103.15,12.5,0.0,90.65,0.879,1
+HR Specialist,Feminine-Leaning,Jawa Barat,101.69,12.5,0.0,89.19,0.877,1
+Training Manager,Feminine-Leaning,Jawa Barat,106.72,12.5,0.0,94.22,0.883,1
+Junior Developer,Masculine-Leaning,Jawa Barat,100.62,0.0,0.0,100.62,1.0,1
+Junior Developer,Masculine-Leaning,Jawa Barat,102.79,0.0,0.0,102.79,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,99.59,12.5,0.0,87.09,0.874,1
+Training Manager,Masculine-Leaning,Luar Jawa,113.5,0.0,8.0,105.5,0.93,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,97.08,0.0,0.0,97.08,1.0,1
+Training Manager,Masculine-Leaning,Luar Jawa,91.43,0.0,8.0,83.43,0.913,1
+Junior Developer,Feminine-Leaning,Jawa Timur,104.76,12.5,0.0,92.26,0.881,1
+Backend Developer,Masculine-Leaning,Luar Jawa,101.73,0.0,8.0,93.73,0.921,1
+Data Analyst,Masculine-Leaning,Jawa Timur,95.0,0.0,0.0,95.0,1.0,1
+UI/UX Designer,Masculine-Leaning,Jawa Barat,111.06,0.0,0.0,111.06,1.0,1
+HR Specialist,Masculine-Leaning,DKI Jakarta,90.44,0.0,0.0,90.44,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,97.27,0.0,0.0,97.27,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,108.41,12.5,0.0,95.91,0.885,1
+Training Manager,Masculine-Leaning,Jawa Timur,91.96,0.0,0.0,91.96,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,104.54,0.0,0.0,104.54,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,105.48,0.0,0.0,105.48,1.0,1
+Data Analyst,Feminine-Leaning,Jawa Timur,94.81,12.5,0.0,82.31,0.868,1
+Data Analyst,Feminine-Leaning,Jawa Timur,97.06,12.5,0.0,84.56,0.871,1
+Training Manager,Feminine-Leaning,Luar Jawa,99.35,12.5,8.0,78.85,0.794,1
+Data Analyst,Masculine-Leaning,Jawa Timur,93.19,0.0,0.0,93.19,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,97.36,0.0,0.0,97.36,1.0,1
+HR Specialist,Feminine-Leaning,Jawa Barat,111.08,12.5,0.0,98.58,0.887,1
+Data Analyst,Feminine-Leaning,Jawa Barat,102.22,12.5,0.0,89.72,0.878,1
+Data Analyst,Masculine-Leaning,Jawa Timur,98.95,0.0,0.0,98.95,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,114.96,0.0,0.0,114.96,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,100.69,0.0,0.0,100.69,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,118.41,0.0,0.0,118.41,1.0,1
+HR Specialist,Feminine-Leaning,Luar Jawa,106.17,12.5,8.0,85.67,0.807,1
+Product Manager,Masculine-Leaning,Jawa Barat,103.3,0.0,0.0,103.3,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Barat,104.04,0.0,0.0,104.04,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,97.79,0.0,8.0,89.79,0.918,1
+Data Analyst,Masculine-Leaning,Jawa Barat,96.6,0.0,0.0,96.6,1.0,1
+Data Analyst,Feminine-Leaning,Luar Jawa,103.19,12.5,8.0,82.69,0.801,1
+Product Manager,Feminine-Leaning,Luar Jawa,96.82,12.5,8.0,76.32,0.788,1
+Training Manager,Masculine-Leaning,Jawa Timur,113.1,0.0,0.0,113.1,1.0,1
+Junior Developer,Masculine-Leaning,Jawa Timur,107.62,0.0,0.0,107.62,1.0,1
+UI/UX Designer,Masculine-Leaning,Luar Jawa,107.22,0.0,8.0,99.22,0.925,1
+HR Specialist,Masculine-Leaning,DKI Jakarta,105.12,0.0,0.0,105.12,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Timur,97.26,0.0,0.0,97.26,1.0,1
+Training Manager,Masculine-Leaning,Luar Jawa,93.68,0.0,8.0,85.68,0.915,1
+Junior Developer,Masculine-Leaning,Jawa Timur,108.65,0.0,0.0,108.65,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Barat,96.46,0.0,0.0,96.46,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,106.06,0.0,8.0,98.06,0.925,1
+Content Specialist,Masculine-Leaning,Luar Jawa,91.2,0.0,8.0,83.2,0.912,1
+Software Engineer,Masculine-Leaning,Luar Jawa,95.12,0.0,8.0,87.12,0.916,1
+Junior Developer,Feminine-Leaning,DKI Jakarta,111.94,12.5,0.0,99.44,0.888,1
+Content Specialist,Masculine-Leaning,Jawa Barat,98.45,0.0,0.0,98.45,1.0,1
+Backend Developer,Masculine-Leaning,Luar Jawa,100.02,0.0,8.0,92.02,0.92,1
+Content Specialist,Masculine-Leaning,Jawa Barat,112.93,0.0,0.0,112.93,1.0,1
+Training Manager,Feminine-Leaning,Luar Jawa,96.92,12.5,8.0,76.42,0.788,1
+Junior Developer,Feminine-Leaning,Luar Jawa,106.2,12.5,8.0,85.7,0.807,1
+Data Analyst,Feminine-Leaning,Luar Jawa,94.53,12.5,8.0,74.03,0.783,1
+Data Analyst,Masculine-Leaning,Jawa Timur,98.29,0.0,0.0,98.29,1.0,1
+Junior Developer,Feminine-Leaning,Jawa Timur,118.89,12.5,0.0,106.39,0.895,1
+Data Analyst,Masculine-Leaning,Jawa Timur,98.54,0.0,0.0,98.54,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Timur,104.3,0.0,0.0,104.3,1.0,1
+Training Manager,Feminine-Leaning,DKI Jakarta,109.91,12.5,0.0,97.41,0.886,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,103.86,0.0,0.0,103.86,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Timur,85.6,0.0,0.0,85.6,1.0,1
+Training Manager,Feminine-Leaning,Jawa Timur,102.24,12.5,0.0,89.74,0.878,1
+Product Manager,Masculine-Leaning,Luar Jawa,111.4,0.0,8.0,103.4,0.928,1
+Data Analyst,Feminine-Leaning,Jawa Timur,107.66,12.5,0.0,95.16,0.884,1
+Backend Developer,Masculine-Leaning,Jawa Barat,110.46,0.0,0.0,110.46,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Timur,107.62,0.0,0.0,107.62,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,109.52,0.0,0.0,109.52,1.0,1
+HR Specialist,Masculine-Leaning,Jawa Barat,95.53,0.0,0.0,95.53,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Timur,108.45,0.0,0.0,108.45,1.0,1
+Data Analyst,Masculine-Leaning,Luar Jawa,110.39,0.0,8.0,102.39,0.928,1
+Junior Developer,Masculine-Leaning,Jawa Barat,108.92,0.0,0.0,108.92,1.0,1
+Backend Developer,Masculine-Leaning,Jawa Timur,109.64,0.0,0.0,109.64,1.0,1
+Junior Developer,Feminine-Leaning,Jawa Barat,113.33,12.5,0.0,100.83,0.89,1
+Training Manager,Feminine-Leaning,Jawa Timur,112.17,12.5,0.0,99.67,0.889,1
+HR Specialist,Feminine-Leaning,Luar Jawa,102.09,12.5,8.0,81.59,0.799,1
+Junior Developer,Masculine-Leaning,Jawa Timur,111.17,0.0,0.0,111.17,1.0,1
+Product Manager,Masculine-Leaning,Luar Jawa,102.12,0.0,8.0,94.12,0.922,1
+Junior Developer,Feminine-Leaning,Jawa Timur,106.17,12.5,0.0,93.67,0.882,1
+Data Analyst,Feminine-Leaning,Jawa Timur,107.6,12.5,0.0,95.1,0.884,1
+Junior Developer,Feminine-Leaning,Jawa Timur,107.75,12.5,0.0,95.25,0.884,1
+Data Analyst,Masculine-Leaning,Jawa Barat,100.0,0.0,0.0,100.0,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,93.56,0.0,0.0,93.56,1.0,1
+DevOps Engineer,Masculine-Leaning,Jawa Barat,108.54,0.0,0.0,108.54,1.0,1
+Data Analyst,Masculine-Leaning,Jawa Barat,98.31,0.0,0.0,98.31,1.0,1
+Training Manager,Masculine-Leaning,Luar Jawa,98.54,0.0,8.0,90.54,0.919,1
+Content Specialist,Feminine-Leaning,Jawa Timur,94.24,12.5,0.0,81.74,0.867,1
+HR Specialist,Masculine-Leaning,Jawa Barat,94.94,0.0,0.0,94.94,1.0,1
+HR Specialist,Feminine-Leaning,DKI Jakarta,95.47,12.5,0.0,82.97,0.869,1
+UI/UX Designer,Masculine-Leaning,Luar Jawa,98.36,0.0,8.0,90.36,0.919,1
+Training Manager,Feminine-Leaning,Luar Jawa,114.05,12.5,8.0,93.55,0.82,1
+Junior Developer,Feminine-Leaning,Jawa Barat,107.91,12.5,0.0,95.41,0.884,1
+Training Manager,Masculine-Leaning,Luar Jawa,109.64,0.0,8.0,101.64,0.927,1
+Training Manager,Masculine-Leaning,Jawa Barat,99.16,0.0,0.0,99.16,1.0,1
+Software Engineer,Masculine-Leaning,Luar Jawa,111.12,0.0,8.0,103.12,0.928,1
+Junior Developer,Masculine-Leaning,Luar Jawa,112.0,0.0,8.0,104.0,0.929,1
+Junior Developer,Masculine-Leaning,Jawa Barat,112.02,0.0,0.0,112.02,1.0,1
+DevOps Engineer,Masculine-Leaning,DKI Jakarta,110.31,0.0,0.0,110.31,1.0,1
+Junior Developer,Masculine-Leaning,DKI Jakarta,111.99,0.0,0.0,111.99,1.0,1
+Junior Developer,Masculine-Leaning,Jawa Barat,106.28,0.0,0.0,106.28,1.0,1
+Product Manager,Masculine-Leaning,Luar Jawa,103.63,0.0,8.0,95.63,0.923,1
